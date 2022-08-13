@@ -31,4 +31,4 @@ services:
     restart: always
 
 volumes:
-  pgdata
+  pgdata:
